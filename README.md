@@ -1,4 +1,4 @@
-# R-K-Deekshith_Wisdom_Leaf_React_Assignment
+# R-K-Deekshith
 Live Link: https://react-wowcher.vercel.app/
 
 This is my assignment project for Wisdom Leaf Technologies Ltd. called Revenue aggregator application, using React.
